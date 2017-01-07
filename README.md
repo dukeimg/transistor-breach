@@ -43,7 +43,7 @@ Steps to set up:
 
 ## Credits
 
-Great thanks to Steven La (@stevenla) for inspiration and Matthew Ready and his [blog](https://craxic.com/transistor-sound-ripper/ "Transistor Sound Ripper") for giving me the actual working example. 
+Great thanks to Steven La (@[stevenla](https://github.com/stevenla "Steven La")) for inspiration and Matthew Ready and his [blog](https://craxic.com/transistor-sound-ripper/ "Transistor Sound Ripper") for giving me the actual working example. 
 
 No files of Transistor are used in this repository. Respect other people's rights. If you're looking just for the music, buy an [official soundtrack](https://supergiantgames.bandcamp.com/album/transistor-original-soundtrack "Transistor Oficial Soundtrack") 
 
